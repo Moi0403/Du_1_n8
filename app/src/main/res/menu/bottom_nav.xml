@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_bt"
+        android:title="Home"
+        android:icon="@drawable/home"/>
+    <item
+        android:id="@+id/phim_bt"
+        android:title="Phim"
+        android:icon="@drawable/film"/>
+    <item
+        android:id="@+id/ve_bt"
+        android:title="Vé"
+        android:icon="@drawable/ve"/>
+    <item
+        android:id="@+id/user_bt"
+        android:title="User"
+        android:icon="@drawable/user_bt"/>
+</menu>
